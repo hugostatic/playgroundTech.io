@@ -1,4 +1,5 @@
 title: Simple Python Template
+cover: /cover.png
 plan:
 - title: Python Snippet
   statement: statement.md
