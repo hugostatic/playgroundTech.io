@@ -7,4 +7,4 @@ plan:
   description: This is a quick description of my first chapter.
   plan:
   - title: Lesson 1 of Chapter 1
-    statement: /playgrounds/chapter1/lesson1.md
+    statement: /markdowns/chapter1/lesson1.md
