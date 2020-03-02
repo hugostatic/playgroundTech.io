@@ -1,5 +1,10 @@
 title: playgroundTech.io
 cover: /cover.png
 plan:
-- title: Python Snippet
+- title: Sandbox
   statement: statement.md
+- title: Chapitre 1 : Introduction
+  description: This is a quick description of my first chapter.
+  plan:
+  - title: Lesson 1 of Chapter 1
+    statement: /playgrounds/chapter1/lesson1.md
