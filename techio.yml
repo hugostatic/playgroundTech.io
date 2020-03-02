@@ -1,8 +1,6 @@
 title: playgroundTech.io
 cover: /cover.png
 plan:
-- title: Sandbox
-  statement: statement.md
 - title: My first chapter title
   description: This is a quick description of my first chapter.
   plan:
