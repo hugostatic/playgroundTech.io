@@ -13,3 +13,5 @@ plan:
   plan:
   - title: Introduction
     statement: /markdowns/chapter1/intro.md
+  - title: Affectation
+    statement: /markdowns/chapter1/affectation.md

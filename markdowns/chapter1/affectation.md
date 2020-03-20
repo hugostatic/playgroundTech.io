@@ -1,0 +1,1 @@
+Une **variable** informatique est un quadruplet (nom, adresse, valeur, type) qui caractérise une donnée informatique à un instant donné.
