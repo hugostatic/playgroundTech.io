@@ -5,7 +5,3 @@
 C’est le mathématicien anglais Alan Turing (1912-1954) qui formalisa le premier calculateur programmable avec sa machine abstraite, dite machine de Turing, ainsi que les concepts d’algorithme et de calculabilité à l’origine de la science des algorithmes : l’algorithmique.
 
 
-```python runnable
-from math import sqrt
-print(sqrt(25))
-```
