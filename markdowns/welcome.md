@@ -1,4 +1,12 @@
-# Bienvenue sur mon premier playground
+# Algorithmique et programmation
+
+## Projet de cours 20 mars
+
+**Plan**
+
+
+**Ressources**
+- Cours premier semestre ENIB
 
 This Python template lets you get started quickly with a simple one-page playground.
 
