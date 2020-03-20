@@ -6,8 +6,8 @@ plan:
   plan:
   - title: Présentation
     statement: /markdowns/welcome.md
-- title: My first chapter title
-  description: This is a quick description of my first chapter.
+- title: Introduction à l'algorithmique
+  description: Les bases de l'algorithmique.
   plan:
-  - title: Lesson 1 of Chapter 1
-    statement: /markdowns/chapter1/lesson1.md
+  - title: Introduction
+    statement: /markdowns/chapter1/intro.md
