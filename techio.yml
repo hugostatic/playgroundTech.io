@@ -6,6 +6,8 @@ plan:
   plan:
   - title: Présentation
     statement: /markdowns/welcome.md
+  - title: Sandbox
+    statement: /markdowns/playground.md
 - title: Introduction à l'algorithmique
   description: Les bases de l'algorithmique.
   plan:
