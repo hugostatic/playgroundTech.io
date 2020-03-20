@@ -1,11 +1,11 @@
 title: playgroundTech.io
 cover: /cover.png
- plan:
+plan:
+- title: Présentation
+  descripton: playgroundTech.io
+  plan:
   - title: Présentation
     statement: /markdowns/welcome.md
-  - title: playground
-    description : Votre bac à sable
-    statement: /markdowns/playground.md
 - title: Introduction à l'algorithmique
   description: Les bases de l'algorithmique.
   plan:
